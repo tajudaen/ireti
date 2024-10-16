@@ -3,7 +3,7 @@ import React from 'react';
 
 import adeyemo from '../../../public/images/adeyemo.png';
 import eric from '../../../public/images/eric.png';
-import ikponmwosa from '../../../public/images/ikponmwosa.png';
+import ikponmwosa from '../../../public/images/Ikponmwosa.png';
 import lois from '../../../public/images/lois.png';
 import olusayo from '../../../public/images/olusayo.png';
 
