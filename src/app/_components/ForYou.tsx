@@ -31,15 +31,7 @@ const ForYou = () => {
 
         <div className='px-2 md:px-10 flex flex-col gap-8 lg:px-0 xl:px-2 w-full md:w-1/2'>
           <p className='text-black w-full text-base md:text-lg'>
-            We are a non-profit organization dedicated to creating positive change in communities through sustainable projects and initiatives. Join us in making a difference today. We are a non-profit organization dedicated to creating positive change in communities through sustainable projects and initiatives. Join us in making a difference today.
-          </p>
-
-          <p className='text-black w-full text-base md:text-lg'>
-            We are a non-profit organization dedicated to creating positive change in communities through sustainable projects and initiatives. Join us in making a difference today. We are a non-profit organization dedicated to creating positive change in communities through sustainable projects and initiatives. Join us in making a difference today.
-          </p>
-
-          <p className='text-black w-full text-base md:text-lg'>
-            We are a non-profit organization dedicated to creating positive change in communities through sustainable projects and initiatives. Join us in making a difference today. We are a non-profit organization dedicated to creating positive change in communities through sustainable projects and initiatives. Join us in making a difference today.
+            We are a non-profit organization dedicated to creating positive change in communities through sustainable projects and initiatives. Join us in making a difference today.
           </p>
           <Button
             type='button'
