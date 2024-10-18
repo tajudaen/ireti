@@ -60,13 +60,13 @@ const NavBar = ({ isHome }: { isHome?: boolean }) => {
   if (isMobile) {
     return (
       <>
-        <div className='py-4 flex w-full items-center justify-between px-2 md:px-6'>
-          <div className='relative h-[34px] w-[220px]'>
-            <a href='/' className='block w-max py-4 text-2xl px-6'>
+        <div className='py-4 flex w-full items-center justify-between shadow-lg px-2 md:px-6'>
+          <div className='relative h-[34px] w-[320px]'>
+            <a href='/' className='block w-max text-2xl px-6'>
               <Logo className='' variant='white' />
             </a>
           </div>
-          <div className='relative h-[24px] w-[24px]'>
+          <div className='relative h-[44px] w-[44px]'>
             <Image
               src='/svg/menu.svg'
               fill
