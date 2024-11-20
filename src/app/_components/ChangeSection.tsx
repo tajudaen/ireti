@@ -33,13 +33,15 @@ const ChangeSection = () => {
             Get in touch with us
           </Button>
 
-          <Button
-            type='button'
-            variant='outline'
-            className='mt-0 md:mt-8 max-w-max bg-white rounded-full px-6 py-3 text-[#1A74BB] md:text-lg'
-          >
-            Become a volunteer
-          </Button>
+          <a href="http://tinyurl.com/IretiVolunteers" target='_blank'>
+            <Button
+              type='button'
+              variant='outline'
+              className='mt-0 md:mt-8 max-w-max bg-white rounded-full px-6 py-3 text-[#1A74BB] md:text-lg'
+            >
+              Become a volunteer
+              </Button>
+          </a>
         </div>
       </div>
     </div>
