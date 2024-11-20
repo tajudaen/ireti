@@ -41,7 +41,7 @@ const Footer = () => {
 							className="text-xs hover:underline text-black flex flex-col items-center gap-2"
 						>
 							<p className="text-marquee-text">Contact Us</p>
-							<p>08158986965, 08169897458</p>
+							<p>09057795603, 08133013015</p>
 						</Link>
 					</div>
 
