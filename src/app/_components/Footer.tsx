@@ -28,7 +28,7 @@ const Footer = () => {
 					</div>
 					<div>
 						<Link
-							href="mailto:info@iretifoundation.org"
+							href="mailto:info@iretifoundation.ng"
 							className="text-xs hover:underline text-black flex flex-col items-center gap-2"
 						>
 							<p className="text-marquee-text">Send us an email</p>

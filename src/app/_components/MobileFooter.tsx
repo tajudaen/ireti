@@ -82,9 +82,9 @@ const Footer = () => {
 
                 <div className='w-full px-8 flex justify-between'>
                     <div>
-                        <Link href='mailto:info@iretifoundation.org' className='text-xs hover:underline text-black flex flex-col items-center gap-2'>
+                        <Link href='mailto:info@iretifoundation.ng' className='text-xs hover:underline text-black flex flex-col items-center gap-2'>
                             <p className='text-marquee-text'>Send us an email</p>
-                            <p>info@iretifoundation.org</p>
+                            <p>info@iretifoundation.ng</p>
                         </Link>
                     </div>
                     <div>
